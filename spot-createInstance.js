@@ -33,7 +33,7 @@
  *    For example: global/networks/default - if you want to use the default network.
  */
 function main(
-  projectId = 'spot-test-356408',
+  projectId = 'PROJECT_ID',
   zone = 'us-central1-c',
   instanceName = 'spottest2',
   machineType = 'n1-standard-1',
